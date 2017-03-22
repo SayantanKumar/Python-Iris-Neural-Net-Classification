@@ -1,7 +1,7 @@
 # Iris-NN
-Neural Network for the Iris Dataset using python.
+A simple program to classify the 3 flowers using a Neural Network with supervised learning using data from the Iris Dataset.
 
-My first full neural network program using the famous iris data set. Feel free to fork and improve my program, I'm still learning so there's going to be a lot to improve...
+This is my first machine learning program so feel free to improve, and I'll love some constructive criticism
 
 There will be an Jupyter Notebook as well as a plain python file here.
 
@@ -12,3 +12,5 @@ There will be an Jupyter Notebook as well as a plain python file here.
 Numpy
 
 Sklearn (Just to get the dataset)
+
+Scipy (For optimization)
