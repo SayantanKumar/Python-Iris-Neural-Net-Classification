@@ -1,5 +1,6 @@
 # Iris-NN
-A simple program that uses the iris dataset to train a dataset that based on the 4 inputs, can which of the 3 flower's that is
+A simple program that uses the iris dataset to train a dataset that, based on the 4 inputs, can predict one of the 3 flower's
+
 
 # Demos
 The program can be run alone to run the main demo which trains the net, graphs the training then outputs the predicted based on values coded.
@@ -13,10 +14,10 @@ Or you can create your own code to interact with the net
 
 # Dependencies (Although I suggest to install Anaconda):
 
-Numpy
+Numpy (Handling the data)
 
-Sklearn (Just to get the dataset)
+Sklearn (Get the dataset)
 
-Scipy (For optimization)
+Scipy (Using the wrapper for the BFGS algorithm)
 
-Matplotlib
+Matplotlib (Graphing)
