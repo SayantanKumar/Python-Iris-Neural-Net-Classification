@@ -1,16 +1,22 @@
 # Iris-NN
-A simple program to classify the 3 flowers using a Neural Network with supervised learning using data from the Iris Dataset.
+A simple program that uses the iris dataset to train a dataset that based on the 4 inputs, can which of the 3 flower's that is
 
-This is my first machine learning program so feel free to improve the code, and an explanation to what you did and why would be very welcome too!
+# Demos
+The program can be run alone to run the main demo which trains the net, graphs the training then outputs the predicted based on values coded.
 
-There is both a Jupyter Notebook as well as a plain .py file from the notebook so that isn't formatted very well.
+If it is imported other demos can be ran:
+inp() - Trains the net, then returns the prediction based on 4 values that are inputted
+training() - Trains the net 1 iteration at a time at how many iterations you want, showing an interactive graph as it goes along
+Or you can create your own code to interact with the net
 
 
 
-# Dependencies (Or just use anaconda) :
+# Dependencies (Although I suggest to install Anaconda):
 
 Numpy
 
 Sklearn (Just to get the dataset)
 
 Scipy (For optimization)
+
+Matplotlib
