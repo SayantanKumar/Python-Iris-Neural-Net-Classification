@@ -1,5 +1,5 @@
 # Iris-NN
-A simple program that uses the iris dataset to train a dataset that, based on the 4 inputs, can predict one of the 3 flower's
+A simple program that uses the iris dataset to train a dataset that, based on the 4 inputs, can predict one of the 3 flowers.
 
 
 # Demos
